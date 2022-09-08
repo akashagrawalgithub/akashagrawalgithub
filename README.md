@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Agrawal</h1>
 <h3 align="center">I am a From United College of Engineering and Research prayagraj</h3>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashagrawalgithub" alt="kashagrawalgithub" /></a> </p> - 📄 Know about my experiences [https://drive.google.com/file/d/11gXyPdSTb3IQMSq2jE_lLgxFzn_u5ttm/view?usp=sharing](https://drive.google.com/file/d/11gXyPdSTb3IQMSq2jE_lLgxFzn_u5ttm/view?usp=sharing)-->
+<!-- <p align="left"> [![trophy](https://github-profile-trophy.vercel.app/?akashagrawalgithub=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)</p> -->
 
 - 🌱 I’m currently learning **about redis, sockets...**
 
