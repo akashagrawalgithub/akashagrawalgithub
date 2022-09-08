@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Agrawal</h1>
 <h3 align="center">I am a From United College of Engineering and Research prayagraj</h3>
 
-<!-- <p align="left"> [![trophy](https://github-profile-trophy.vercel.app/?akashagrawalgithub=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)</p> -->
+<p align="left"> [![trophy](https://github-profile-trophy.vercel.app/?akashagrawalgithub=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)</p>
 
 - 🌱 I’m currently learning **about redis, sockets...**
 
