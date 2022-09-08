@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Akash Agrawal</h1>
 <h3 align="center">I am a From United College of Engineering and Research prayagraj</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashagrawalgithub" alt="akashagrawalgithub" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashagrawalgithub" alt="kashagrawalgithub" /></a> </p>
 
 - 🌱 I’m currently learning **about redis, sockets...**
 
 - 💬 Ask me about **nodejs, graphql, postgresql, mongodb**
 
-- 📫 How to reach me **ritu.shandilya@iiitg.ac.in**
+- 📫 How to reach me **akash242018@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/11gXyPdSTb3IQMSq2jE_lLgxFzn_u5ttm/view?usp=sharing](https://drive.google.com/file/d/11gXyPdSTb3IQMSq2jE_lLgxFzn_u5ttm/view?usp=sharing)
 
