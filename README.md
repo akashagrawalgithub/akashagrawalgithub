@@ -3,9 +3,9 @@
 
 <!-- <p align="left"> [![trophy](https://github-profile-trophy.vercel.app/?akashagrawalgithub=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)</p> -->
 
-- 🌱 I’m currently learning **about redis, sockets...**
+- 🌱 I’m currently learning **about MaterialUI, React...**
 
-- 💬 Ask me about **nodejs, graphql, postgresql, mongodb**
+- 💬 Ask me about **React, Javascript, Competitive programming, **
 
 - 📫 How to reach me **akash242018@gmail.com**
 
