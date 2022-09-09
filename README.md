@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **about MaterialUI, React...**
 
-- 💬 Ask me about **React, Javascript, Competitive programming, **
+- 💬 Ask me about **React, Javascript, Competitive programming**
 
 - 📫 How to reach me **akash242018@gmail.com**
 
