@@ -3,7 +3,7 @@
 
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashagrawalgithub" alt="akashagrawalgithub" /></a> </p>
 
-- 🌱 I’m currently learning **about MaterialUI, React...**
+- 🌱 I’m currently learning **about Flutter**
 
 - 💬 Ask me about **React, Javascript, Competitive programming**
 
